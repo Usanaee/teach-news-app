@@ -1,7 +1,7 @@
 # Teach News React App
 
 Teach News App is a dynamic and user-friendly React application designed to deliver the latest tech-related news. The primary goal of this project is to create a seamless and engaging platform for users to stay updated with the latest tech news. 
-<video width="1500" controls src="https://github.com/user-attachments/assets/65622f75-6d01-46fb-8009-718b3766454d" />
+<video width="1500" controls src="https://github.com/user-attachments/assets/9f5a8a3a-0a7c-4387-a51b-4fdfaac7ea5b" />
  ## Live View On Your Tab
 Click Here For Live View: [Live Demo](https://teach-news-app.vercel.app/)
 
