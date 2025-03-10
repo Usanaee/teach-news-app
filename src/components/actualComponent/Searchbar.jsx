@@ -1,7 +1,6 @@
-import React from "react";
-import { useGlobalContext } from '@/store/StoreContext';
+import { useGlobalContext } from "@/store/StoreContext";
 function Searchbar() {
-const {query,searchNews} = useGlobalContext()
+  const { query, searchNews } = useGlobalContext();
 
   return (
     <div className="max-sm:w-full bg-transparent px-4 py-1 rounded-full border border-slate-500 flex justify-between items-center mr-4">

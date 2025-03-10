@@ -1,5 +1,3 @@
-import axios from "axios";
-import { useEffect, useState } from "react";
 import Navbar from "./section/Navbar";
 import HeroSection from "./section/Hero";
 import Footer from "./section/Footer";
